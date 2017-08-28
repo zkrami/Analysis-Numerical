@@ -1,0 +1,68 @@
+﻿Build started 5/31/2016 1:59:57 PM.
+     1>Project "C:\Users\POO3\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Users\POO3\Documents\Visual Studio 2012\MetroFramework\MetroFramework.Design.dll" /FU"C:\Users\POO3\Documents\Visual Studio 2012\MetroFramework\MetroFramework.dll" /FU"C:\Users\POO3\Documents\Visual Studio 2012\MetroFramework\MetroFramework.Fonts.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Interpolation.cpp main.cpp Poly.cpp
+         Interpolation.cpp
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(74): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(83): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(118): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(95): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(97): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(102): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(140): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(170): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(184): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(208): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(255): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(287): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1882): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1885): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1887): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1891): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1903): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1906): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1908): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1955): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(2076): warning C4018: '<' : signed/unsigned mismatch
+         main.cpp
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(74): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(83): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(118): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(95): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(97): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(102): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(140): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(170): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(184): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(208): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(255): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(287): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1882): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1885): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1887): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1891): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1903): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1906): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1908): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(1955): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Interpolation.h(2076): warning C4018: '<' : signed/unsigned mismatch
+         Poly.cpp
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(74): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(83): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\poo3\documents\visual studio 2012\projects\project2\project2\Poly.h(118): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\POO3\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\POO3\Documents\Visual Studio 2012\Projects\Project2\Release\Project2.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Project2.Interpolation.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\POO3\Documents\Visual Studio 2012\Projects\Project2\Release\Project2.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\Interpolation.obj
+         Release\main.obj
+         Release\Poly.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Project2.vcxproj -> C:\Users\POO3\Documents\Visual Studio 2012\Projects\Project2\Release\Project2.exe
+     1>Done Building Project "C:\Users\POO3\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.20

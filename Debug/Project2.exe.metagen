@@ -1,0 +1,43 @@
+  Project2.Interpolation.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project2, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MetroFramework.Design, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a: 
+	hash=None, flags=None
+Assembly MetroFramework, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a: 
+	hash=None, flags=None
+Assembly MetroFramework.Fonts, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project2.Interpolation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :MetroFramework.Forms.MetroForm
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    factorial(Int32): PrivateScope, Public, HideBySig
+    Spline(spline_solution*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    is_const(vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    gaussian_elimination(vector<long double\,std::allocator<long double> >*, vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    general_interpolation(Poly*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >*): PrivateScope, Public, HideBySig
+    Polys_forward(Poly*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced, Int32): PrivateScope, Public, HideBySig
+    Polys_backward(Poly*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced, Int32): PrivateScope, Public, HideBySig
+    Newton_Divided_Difference_forward(pair<Poly\,std::vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > > >*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    squares(pair<Poly\,std::pair<std::vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > >\,std::vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > > > >*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced, Int32): PrivateScope, Public, HideBySig
+    Newton_Divided_Difference_backward(pair<Poly\,std::vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > > >*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    Permutation(Poly*, Poly*, Int32): PrivateScope, Public, HideBySig
+    Multi(Poly*, Poly*, Int32): PrivateScope, Public, HideBySig
+    Newton_backward(pair<Poly\,std::vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > > >*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >*): PrivateScope, Public, HideBySig
+    Newton_forward(pair<Poly\,std::vector<std::vector<long double\,std::allocator<long double> >\,std::allocator<std::vector<long double\,std::allocator<long double> > > > >*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >*): PrivateScope, Public, HideBySig
+    Lagrange(Poly*, vector<std::pair<long double\,long double>\,std::allocator<std::pair<long double\,long double> > >*): PrivateScope, Public, HideBySig
